@@ -1,0 +1,6 @@
+}
+.post-page-numbers {
+    color: white !important;
+    background-color: grey !important;
+    border: none !important;
+}
